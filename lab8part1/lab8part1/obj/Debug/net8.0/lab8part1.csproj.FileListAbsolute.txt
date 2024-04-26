@@ -1,0 +1,14 @@
+C:\Users\murum\source\repos\lab8part1\lab8part1\bin\Debug\net8.0\lab8part1.exe
+C:\Users\murum\source\repos\lab8part1\lab8part1\bin\Debug\net8.0\lab8part1.deps.json
+C:\Users\murum\source\repos\lab8part1\lab8part1\bin\Debug\net8.0\lab8part1.runtimeconfig.json
+C:\Users\murum\source\repos\lab8part1\lab8part1\bin\Debug\net8.0\lab8part1.dll
+C:\Users\murum\source\repos\lab8part1\lab8part1\bin\Debug\net8.0\lab8part1.pdb
+C:\Users\murum\source\repos\lab8part1\lab8part1\obj\Debug\net8.0\lab8part1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murum\source\repos\lab8part1\lab8part1\obj\Debug\net8.0\lab8part1.AssemblyInfoInputs.cache
+C:\Users\murum\source\repos\lab8part1\lab8part1\obj\Debug\net8.0\lab8part1.AssemblyInfo.cs
+C:\Users\murum\source\repos\lab8part1\lab8part1\obj\Debug\net8.0\lab8part1.csproj.CoreCompileInputs.cache
+C:\Users\murum\source\repos\lab8part1\lab8part1\obj\Debug\net8.0\lab8part1.dll
+C:\Users\murum\source\repos\lab8part1\lab8part1\obj\Debug\net8.0\refint\lab8part1.dll
+C:\Users\murum\source\repos\lab8part1\lab8part1\obj\Debug\net8.0\lab8part1.pdb
+C:\Users\murum\source\repos\lab8part1\lab8part1\obj\Debug\net8.0\lab8part1.genruntimeconfig.cache
+C:\Users\murum\source\repos\lab8part1\lab8part1\obj\Debug\net8.0\ref\lab8part1.dll
