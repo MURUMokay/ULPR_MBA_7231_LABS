@@ -1,0 +1,16 @@
+C:\Users\murum\source\repos\lab10_1_wf\lab10_1_wf\bin\Debug\net8.0-windows\lab10_1_wf.exe
+C:\Users\murum\source\repos\lab10_1_wf\lab10_1_wf\bin\Debug\net8.0-windows\lab10_1_wf.deps.json
+C:\Users\murum\source\repos\lab10_1_wf\lab10_1_wf\bin\Debug\net8.0-windows\lab10_1_wf.runtimeconfig.json
+C:\Users\murum\source\repos\lab10_1_wf\lab10_1_wf\bin\Debug\net8.0-windows\lab10_1_wf.dll
+C:\Users\murum\source\repos\lab10_1_wf\lab10_1_wf\bin\Debug\net8.0-windows\lab10_1_wf.pdb
+C:\Users\murum\source\repos\lab10_1_wf\lab10_1_wf\obj\Debug\net8.0-windows\lab10_1_wf.Form1.resources
+C:\Users\murum\source\repos\lab10_1_wf\lab10_1_wf\obj\Debug\net8.0-windows\lab10_1_wf.csproj.GenerateResource.cache
+C:\Users\murum\source\repos\lab10_1_wf\lab10_1_wf\obj\Debug\net8.0-windows\lab10_1_wf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murum\source\repos\lab10_1_wf\lab10_1_wf\obj\Debug\net8.0-windows\lab10_1_wf.AssemblyInfoInputs.cache
+C:\Users\murum\source\repos\lab10_1_wf\lab10_1_wf\obj\Debug\net8.0-windows\lab10_1_wf.AssemblyInfo.cs
+C:\Users\murum\source\repos\lab10_1_wf\lab10_1_wf\obj\Debug\net8.0-windows\lab10_1_wf.csproj.CoreCompileInputs.cache
+C:\Users\murum\source\repos\lab10_1_wf\lab10_1_wf\obj\Debug\net8.0-windows\lab10_1_wf.dll
+C:\Users\murum\source\repos\lab10_1_wf\lab10_1_wf\obj\Debug\net8.0-windows\refint\lab10_1_wf.dll
+C:\Users\murum\source\repos\lab10_1_wf\lab10_1_wf\obj\Debug\net8.0-windows\lab10_1_wf.pdb
+C:\Users\murum\source\repos\lab10_1_wf\lab10_1_wf\obj\Debug\net8.0-windows\lab10_1_wf.genruntimeconfig.cache
+C:\Users\murum\source\repos\lab10_1_wf\lab10_1_wf\obj\Debug\net8.0-windows\ref\lab10_1_wf.dll
