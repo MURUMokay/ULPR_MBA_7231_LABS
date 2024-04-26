@@ -1,0 +1,14 @@
+C:\Users\murum\source\repos\laba88888888888\laba88888888888\bin\Debug\net8.0\laba88888888888.exe
+C:\Users\murum\source\repos\laba88888888888\laba88888888888\bin\Debug\net8.0\laba88888888888.deps.json
+C:\Users\murum\source\repos\laba88888888888\laba88888888888\bin\Debug\net8.0\laba88888888888.runtimeconfig.json
+C:\Users\murum\source\repos\laba88888888888\laba88888888888\bin\Debug\net8.0\laba88888888888.dll
+C:\Users\murum\source\repos\laba88888888888\laba88888888888\bin\Debug\net8.0\laba88888888888.pdb
+C:\Users\murum\source\repos\laba88888888888\laba88888888888\obj\Debug\net8.0\laba88888888888.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murum\source\repos\laba88888888888\laba88888888888\obj\Debug\net8.0\laba88888888888.AssemblyInfoInputs.cache
+C:\Users\murum\source\repos\laba88888888888\laba88888888888\obj\Debug\net8.0\laba88888888888.AssemblyInfo.cs
+C:\Users\murum\source\repos\laba88888888888\laba88888888888\obj\Debug\net8.0\laba88888888888.csproj.CoreCompileInputs.cache
+C:\Users\murum\source\repos\laba88888888888\laba88888888888\obj\Debug\net8.0\laba88888888888.dll
+C:\Users\murum\source\repos\laba88888888888\laba88888888888\obj\Debug\net8.0\refint\laba88888888888.dll
+C:\Users\murum\source\repos\laba88888888888\laba88888888888\obj\Debug\net8.0\laba88888888888.pdb
+C:\Users\murum\source\repos\laba88888888888\laba88888888888\obj\Debug\net8.0\laba88888888888.genruntimeconfig.cache
+C:\Users\murum\source\repos\laba88888888888\laba88888888888\obj\Debug\net8.0\ref\laba88888888888.dll
